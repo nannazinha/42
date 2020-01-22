@@ -1,0 +1,8 @@
+Credentials cache: API:1424287
+        Principal: ntorres@42SP.ORG.BR
+
+  Issued                Expires             Flags    Principal
+Sep 30 15:38:21 2019  Oct  1 01:38:21 2019  FPIA   krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Sep 30 15:38:22 2019  Oct  1 01:38:21 2019  FPA    HTTP/student-storage.42sp.org.br@42SP.ORG.BR
+Sep 30 16:42:39 2019  Oct  1 01:38:21 2019  FPA    host/vogsphere.42sp.org.br@42SP.ORG.BR
+c1r5p2%
