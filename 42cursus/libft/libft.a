@@ -1,0 +1,85 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    libft.a                                            :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: ntorres <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2020/01/21 10:03:53 by ntorres           #+#    #+#              #
+#    Updated: 2020/01/22 20:40:38 by ntorres          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+void	*memset(void *buffer, int ch, size_t count)
+{
+}
+
+bzero
+
+void	*memcpy(void *to, const void *from, size_t count)
+{
+}
+
+memccpy
+
+memmove
+
+void	*memchr(const void *buffer, int ch, size_t count)
+{
+}
+
+int	memcmp(const void *buffer1, const void *buffer2, size_t count)
+{
+}
+
+int	ft_strlen(char *str)
+{
+	int i;
+
+	i = 0;
+	while (*str != '\0')
+	{
+		i++;
+		str++;
+	}
+	return i;
+}
+
+se_t	strlcpy(char *dst, const char *src, size_t size)
+{
+	return the total length
+}
+
+size_t	strlcat(char *dst, const char *src, size_t size)
+{
+	return the total length
+}
+
+strchr
+
+strrchr
+
+strnstr
+
+strncmp
+
+atoi
+
+isalpha
+
+isdigit
+
+isalnum
+
+isascii
+
+isprint
+
+toupper
+
+tolower
+
+calloc
+
+strdup
+
